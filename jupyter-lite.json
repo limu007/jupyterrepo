@@ -6,24 +6,24 @@
     "federated_extensions": [
       {
         "extension": "./extension",
-        "load": "static/remoteEntry.ca1efc27dc965162ca86.js",
+        "load": "static/remoteEntry.f6574b55a223d23e7a04.js",
         "name": "@jupyter-widgets/jupyterlab-manager"
       },
       {
-        "load": "static/remoteEntry.9c506278e545a18a8cc2.js",
+        "load": "static/remoteEntry.cdf08c015a8192358158.js",
         "mimeExtension": "./mimeExtension",
         "name": "@jupyterlab/fasta-extension",
         "style": "./style"
       },
       {
-        "load": "static/remoteEntry.a6d92e11d5e8c375cfe6.js",
+        "load": "static/remoteEntry.b75c764d727b50009261.js",
         "mimeExtension": "./mimeExtension",
         "name": "@jupyterlab/geojson-extension",
         "style": "./style"
       },
       {
         "extension": "./extension",
-        "load": "static/remoteEntry.89879fac6ceba3caa16b.js",
+        "load": "static/remoteEntry.bf6b3192a558615425cd.js",
         "name": "@telamonian/theme-darcula"
       },
       {
@@ -33,17 +33,17 @@
       },
       {
         "extension": "./extension",
-        "load": "static/remoteEntry.e9a229a6deef8e3c895b.js",
+        "load": "static/remoteEntry.12ad22690794c9ade54e.js",
         "name": "bqplot"
       },
       {
         "extension": "./extension",
-        "load": "static/remoteEntry.5459894d80c1201f22ae.js",
+        "load": "static/remoteEntry.5ffed1c4b9b9ce1f7b00.js",
         "name": "ipycanvas"
       },
       {
         "extension": "./extension",
-        "load": "static/remoteEntry.8c5efb3516d04e6a5bb7.js",
+        "load": "static/remoteEntry.8f5cefaa26fbae099326.js",
         "name": "jupyter-leaflet"
       },
       {
@@ -54,7 +54,7 @@
       },
       {
         "extension": "./extension",
-        "load": "static/remoteEntry.7b0dfd91a418a1e7eb37.js",
+        "load": "static/remoteEntry.320cd506ee27637bd123.js",
         "mimeExtension": "./mimeExtension",
         "name": "jupyterlab-plotly"
       }
